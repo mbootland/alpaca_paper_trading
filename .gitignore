@@ -1,0 +1,3 @@
+.env
+historical_data.csv
+__pycache__/
